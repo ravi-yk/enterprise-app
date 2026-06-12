@@ -11,7 +11,6 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "prebuild": "npm run lint",
     "build:development": "ng build --configuration development",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
